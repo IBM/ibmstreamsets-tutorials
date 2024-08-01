@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 Creating a Custom StreamSets Destination
 ========================================
 

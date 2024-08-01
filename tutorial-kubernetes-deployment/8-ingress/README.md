@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 ### Ingress
 
 If an [Ingress Controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/) has been deployed, one can include [Service](https://kubernetes.io/docs/concepts/services-networking/service/) and [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/) resources within a Control Hub-based deployment. This allows end users to reach the SDC UI over HTTP or HTTPS.  An SDC reachable over HTTPS can serve as an [Authoring Data Collector](https://streamsets.com/documentation/controlhub/latest/help/controlhub/UserGuide/DataCollectors/PDesigner_AuthoringSDC.html?hl=authoring%2Cdata%2Ccollectors).

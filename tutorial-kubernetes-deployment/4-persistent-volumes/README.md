@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 ### Loading SDC Stage Libraries from a Persistent Volume
  
 This approach uses a  [Persistent Volume](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) to share a set of SDC Stage Libraries across multiple SDC Pods. The stage libs are mounted by SDC Pods at deployment time so there is no need to package them in a custom SDC image in advance (as is done in the [Custom Docker Image](../2-custom-docker-image) example).

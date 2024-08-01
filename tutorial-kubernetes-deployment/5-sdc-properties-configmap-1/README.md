@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 ### Loading <code>sdc.properties</code> from a ConfigMap
 
 An approach that offers greater flexibility than "baking-in" the <code>sdc.properties</code> file (as in the [Custom Docker Image example](../2-custom-docker-image)) is to dynamically mount an <code>sdc.properties</code> file at deployment time. One way to do that is to store an <code>sdc.properties</code> file in a configMap and to Volume Mount the configMap into the SDC container, overwriting the default <code>sdc.properties</code> file packaged with the image.

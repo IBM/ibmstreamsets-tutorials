@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 # Log Shipping into Elasticsearch
 
 In this two part tutorial, we will learn how to read Apache web server logs and send them to Elasticsearch. Along the way we will transform the data and set up alerts and data rules to let us know if any bad data is encountered. And finally, we'll learn how to adapt the pipeline when data suddenly changes.

@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 # StreamSets DataOps Platform Tutorials
 
 The following tutorials demonstrate features of StreamSets Data Collector, StreamSets Transformer, StreamSets Control Hub and StreamSets SDK For Python.

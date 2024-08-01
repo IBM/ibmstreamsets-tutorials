@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 # Simple Kafka Enablement using StreamSets Data Collector
 
 Creating custom Kafka producers and consumers is often a tedious process that requires manual coding. In this tutorial, we'll see how to use StreamSets Data Collector to create data ingest pipelines to write to Kafka using a Kafka Producer, and read from Kafka with a Kafka Consumer with no handwritten code.

@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 ## Part 2 - Enhancing Log Data
 
 Now that we've examined the basics of how use Data Collector, let's see how to clean up and/or decorate the log data before posting it into Elasticsearch. We'll also look at some nifty features (metric alerts and data rules) within Data Collector that set up alerts for when the pipeline needs attention.

@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# IBM Confidential
+# PID 5900-BAF
+# Copyright StreamSets Inc., an IBM Company 2024
 
 # This script builds a custom Docker image that extends the base SDC image
 # It downloads a set of SDC stage libs and enterprise stage libs to a local directory. 

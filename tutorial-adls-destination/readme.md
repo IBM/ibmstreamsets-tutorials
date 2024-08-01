@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 # Ingesting Local Data into Azure Data Lake Store
 
 [Azure Data Lake Store](https://azure.microsoft.com/en-us/services/data-lake-store/) (ADLS) is a repository for big data analytic workloads, enabling you to capture data for operational and exploratory analytics. In this tutorial you'll learn how to use StreamSets Data Collector (SDC) to send data from on-premise disk storage to ADLS, converting it from CSV to JSON format, and masking personally identifiable information (PII) along the way.

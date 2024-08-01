@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 # Creating a CRUD Microservice Pipeline
 
 StreamSets Data Collector version 3.4.0 introduced microservice pipelines - a new type of dataflow pipeline for implementing RESTful web services natively in Data Collector. Microservice pipelines use a REST Service origin, similar to the HTTP Server origin, to listen for JSON-formatted requests. Where the HTTP Server origin was limited in the response it could return to the HTTP client, the REST Service origin works with the new Send Response to Origin destination to allow you to control the HTTP response code and payload.

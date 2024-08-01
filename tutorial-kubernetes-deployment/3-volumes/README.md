@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 ### Loading stage libs from a pre-populated Volume
 
 This example shows how to load resources from a pre-populated Kubernetes [Volume](https://kubernetes.io/docs/concepts/storage/volumes/). (The next example covers how to dynamically populate and use a [Persistent Volume](https://kubernetes.io/docs/concepts/storage/persistent-volumes/)). 

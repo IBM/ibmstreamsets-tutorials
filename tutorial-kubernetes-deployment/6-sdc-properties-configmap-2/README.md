@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 ### Loading static and dynamic <code>sdc.properties</code> from separate ConfigMaps
 
 This example splits the monolithic <code>sdc.properties</code> file used in the [previous example](../5-sdc-properties-configmap-1) into two configMaps: one for properties that rarely if ever change (and that can be reused across multiple deployments), and one for dynamic properties targeted for a specific deployment.

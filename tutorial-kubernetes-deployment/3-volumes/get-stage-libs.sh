@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# IBM Confidential
+# PID 5900-BAF
+# Copyright StreamSets Inc., an IBM Company 2024
 
 # This script will download SDC stage libs and enterprise stage libs
 # and write them to a directory named streamsets-libs

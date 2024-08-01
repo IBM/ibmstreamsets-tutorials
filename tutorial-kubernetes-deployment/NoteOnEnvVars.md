@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 ### A note about Environment Variables in SDC deployment manifests
 Environment variables specified in SDC Deployment manifests that have the prefix <code>SDC_CONF_</code>, like <code>SDC_CONF_SDC_BASE_HTTP_URL</code>, can be used to dynamically set properties in the deployed SDC's <code>sdc.properties</code> file. 
 

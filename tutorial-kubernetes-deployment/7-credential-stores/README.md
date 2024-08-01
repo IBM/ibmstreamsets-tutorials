@@ -1,3 +1,6 @@
+[comment]: <> ( IBM Confidential )
+[comment]: <> ( PID 5900-BAF )
+[comment]: <> ( Copyright StreamSets Inc., an IBM Company 2024 )
 ### Loading <code>credential-stores.properties</code> from a Secret
 
 This example shows how to load a <code>credential-stores.properties</code> file from a Secret.  This technique is useful if you have different credential stores in different environments (for example, Dev, QA, Prod) and want each environment's SDCs to automatically load the appropriate settings.  
